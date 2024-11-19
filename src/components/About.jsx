@@ -23,7 +23,7 @@ const About = ({theme}) => {
           <div className='max-w-[1000px] w-full grid sm:grid-cols-2 gap-8 px-4'>
           <AnimationOnScroll animateIn="animate__fadeInLeftBig">
             <div className='sm:text-right text-4xl '>
-              <p className='text-xl sm:text-2xl md:text-4xl'>Hi. I'm Shoaib, nice to meet you. Please take a look around.</p>
+              <p className='text-xl sm:text-2xl md:text-4xl'>Hi. I'm Nadyaaa, nice to meet you. Please take a look around.</p>
             </div>
             </AnimationOnScroll>
             <AnimationOnScroll animateIn="animate__fadeInLeftBig">
